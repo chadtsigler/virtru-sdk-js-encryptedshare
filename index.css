@@ -1,0 +1,9 @@
+/**
+ * This CSS is powered by [Tailwind](https://tailwindcss.com/)
+ */
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
